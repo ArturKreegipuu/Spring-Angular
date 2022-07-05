@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e41b5d87-2f5f-4a16-9f78-23197c14ca58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Angular-app/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BTlwaEnpApgQxilJ6z0V6VdwmB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Artur\GScan_praktika\Spring-Angular\Spring-Angular-app\Spring-Angular-ui\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Artur\GScan_praktika\Spring-Angular\Spring-Angular-app\Spring-Angular-ui" />
+      <recent name="C:\Users\Artur\GScan_praktika\Spring-Angular\Spring-Angular-app\Spring-Angular-ui\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41b5d87-2f5f-4a16-9f78-23197c14ca58" name="Changes" comment="" />
+      <created>1656938201678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656938201678</updated>
+      <workItem from="1656938210124" duration="2380000" />
+      <workItem from="1657019368114" duration="2930000" />
+      <workItem from="1657023550491" duration="1488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Spring-Angular-app/Spring-Angular-service/build.gradle</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+plugins {
+  id 'java'
+  id 'com.github.node-gradle.node' version '3.4.0'
+}
+node {
+  version = '18.4.0'
+  npmVersion = '8.12.1'
+  download = true
+}
+
+jar.dependsOn 'npm_run_build'
+
+jar {
+  from 'dist/Spring-Angular-ui' into 'static'
+}
